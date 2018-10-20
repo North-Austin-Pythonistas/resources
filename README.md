@@ -48,6 +48,8 @@ This is a community curated list, send a pull request with your additions.
 
 ### **Videos**
 
+* Git Tutorial for Beginners: [Command-Line Fundamentals][17]
+
 ### **Talks & Slides**
 
 ### **Online Classes**
@@ -60,6 +62,7 @@ This is a community curated list, send a pull request with your additions.
 ### **Programming Related Resources**
 
 * [Git][7]
+
 
 
 <!-- End Links Follow -->
@@ -81,3 +84,4 @@ This is a community curated list, send a pull request with your additions.
 [14]: https://realpython.com
 [15]: https://www.meetup.com/pyandbeer/
 [16]: https://medium.com/py-and-beer
+[17]: https://youtu.be/HVsySz-h9r4
